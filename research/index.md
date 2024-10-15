@@ -1,27 +1,28 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 10
+  tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Neurons, among the longest living cells in the human body, undergo various stresses from normal aging to disease states. The central vision of our lab is to understand how neurons age, respond to degenerative insult and injury, and, critically, how they fail to self-repair. By dissecting the molecular and cellular events shaping neuronal functions after acute or chronic damage, we aim to inform potential therapeutics for neurodegenerative diseases and, more broadly, neural repair.
 
-{% include section.html %}
+Our primary approach integrates single-cell genomics and spatial transcriptomics with CRISPR-based genetic tools to profile and perturb neurons, including their cell-cell interactions with the environment during health and disease. Focusing on retinal and optic nerve degenerative disorders, our ultimate goal is to translate genomic findings to gene and cell therapies that can restore lost visual functions in human patients.
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}

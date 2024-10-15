@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: Join Us
 nav:
-  order: 5
-  tooltip: Email, address, and location
+  order: 40
+  tooltip: Email, address, and applications
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Join Us
 
 We are actively seeking talented researchers (both dry and wet) at all levels to join our team, and conduct research at the intersection of functional genomics, bioinformatics, and neuroscience. We value an inclusive environment and welcome trainees from diverse backgrounds. Please follow the instructions below to apply.  
 
