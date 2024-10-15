@@ -1,5 +1,5 @@
 
-# yuyanchenglabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Cheng Molecular Ophthalmology lab of Upenn
 
 Visit **[yuyanchenglab.github.io/upenn-cheng-lab](https://yuyanchenglab.github.io/upenn-cheng-lab)** 🚀
 

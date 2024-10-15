@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Yuyan received her PhD from the University of Miami in Biochemistry and Molecular Biology (mentor Dr. Richard Jope). She then went on to the University of California, Los Angeles for her postdoctoral training in the laboratory of Dr. Dan Geschwind. Her work leverages functional genomics, computational biology, and experimental animal models to understand the biology of neurodegeneration and to discover potential therapeutic for neural repair.  Yuyan started her lab at Penn in January 2024 studying retinal degenerative disorders using single-cell and spatial genomics approaches. Outside of the lab, Yuyan looks for ways to stay active and creative. She plays a mix of sports, including swimming, skiing, and tennis.
 
 {% include section.html %}
 
@@ -18,11 +16,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
+
+# Collaborators
 
 {% capture content %}
 

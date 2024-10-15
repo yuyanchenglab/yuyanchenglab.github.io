@@ -1,17 +1,13 @@
 ---
 ---
 
-# yuyanchenglabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# Cheng Molecular Ophthalmology lab of Upenn
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See how we are using bioinformatics to understand the progression of Glaucoma and the trauma response of retinal cells.
 
 {%
   include button.html
@@ -34,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+More than Glaucoma and crush injury response, we also work on understanding other insults towards vision.
 
 {%
   include button.html
@@ -59,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+None of our research would be possible without the expertise of our interdisciplinary team!
 
 {%
   include button.html
