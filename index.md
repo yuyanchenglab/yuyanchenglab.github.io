@@ -1,7 +1,7 @@
 ---
 ---
 
-# Cheng Molecular Ophthalmology lab of Upenn
+# ChengLab@UPenn
 
 {% include section.html %}
 

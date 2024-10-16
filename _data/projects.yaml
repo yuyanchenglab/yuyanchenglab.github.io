@@ -1,32 +1,30 @@
-- title: Dissecting cell-type specific changes in the retina during normal aging and neurodegenerative conditions
-  subtitle:
-  group: featured
-  image: images/single-cell-and-spatial.png
-  link:
-  description: The visual signal processing in the retina relies on the precise organization of diverse neuronal types working coordinately. We are applying single-cell and spatial genomics approaches to dissect the complex molecular and cellular events that underlie retinal responses during aging, injury, and neurodegenerative conditions.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# - title: Dissecting cell-type specific changes in the retina during normal aging and neurodegenerative conditions
+#   subtitle:
+#   group: featured
+#   image: images/single-cell-and-spatial.png
+#   link:
+#   description: The visual signal processing in the retina relies on the precise organization of diverse neuronal types working coordinately. We are applying single-cell and spatial genomics approaches to dissect the complex molecular and cellular events that underlie retinal responses during aging, injury, and neurodegenerative conditions.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Rewiring the transcriptional state of degenerative retina
-  subtitle: 
-  group: featured
-  image: images/model-validation.png
-  link: 
-  description: A cell’s behavior is essentially the readout of gene programs expressed at the time, driven by transcriptional regulators. We couple CRISPR screens with single-cell technology to dissect the gene-regulatory networks determining each cell’s transcriptional state in response to damage, and to identify key upstream transcriptional regulators that can reverse retinal degeneration.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# - title: Rewiring the transcriptional state of degenerative retina
+#   group: featured
+#   image: images/model-validation.png
+#   description: A cell's behavior is essentially the readout of gene programs expressed at the time, driven by transcriptional regulators. We couple CRISPR screens with single-cell technology to dissect the gene-regulatory networks determining each cell’s transcriptional state in response to damage, and to identify key upstream transcriptional regulators that can reverse retinal degeneration.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Transforming genomics findings to therapeutic strategies for neuroprotection and neural repair
-  subtitle: 
-  group: featured
-  image: images/ultimate-goals.png
-  link: 
-  description: Through computational analysis of multi-omics data, we uncover crucial genes and cell types implicated in neurodegeneration and regenerative failure. Our efforts extend to the development of drugs, gene therapies, and cell therapies aimed at preventing neuronal loss and reinstating physiological functions in animal models of glaucoma and other optic nerve neuropathies.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# - title: Transforming genomics findings to therapeutic strategies for neuroprotection and neural repair
+#   subtitle: 
+#   group: featured
+#   image: images/ultimate-goals.png
+#   link: 
+#   description: Through computational analysis of multi-omics data, we uncover crucial genes and cell types implicated in neurodegeneration and regenerative failure. Our efforts extend to the development of drugs, gene therapies, and cell therapies aimed at preventing neuronal loss and reinstating physiological functions in animal models of glaucoma and other optic nerve neuropathies.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
 # - title: Cool Tutorial
 #   subtitle: a subtitle

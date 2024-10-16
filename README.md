@@ -1,5 +1,5 @@
 
-# Cheng Molecular Ophthalmology lab of Upenn
+# ChengLab@UPenn
 
 Visit **[yuyanchenglab.github.io/upenn-cheng-lab](https://yuyanchenglab.github.io/upenn-cheng-lab)** 🚀
 

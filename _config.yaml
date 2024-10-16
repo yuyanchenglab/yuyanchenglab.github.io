@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: Cheng Molecular Ophthalmology lab of Upenn
+title: ChengLab@UPenn
 subtitle: 
 description: 
 header: images/background.jpg
@@ -9,11 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: yuyan.cheng@pennmedicine.upenn.edu
-  orcid: 0000-0003-4647-4917
-  google-scholar: Fn9y3FwAAAAJ
-  github: https://github.com/yuyan415
+  github: https://github.com/yuyanchenglab
   twitter:
-  youtube:
 
 ### jekyll settings
 
