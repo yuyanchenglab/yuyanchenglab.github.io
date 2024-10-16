@@ -26,6 +26,11 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+bioinformatics:
+  description: Lab Biostatistician
+
+wet-tech:
+  description: Lab Technician
 # general
 
 link:

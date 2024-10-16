@@ -1,174 +1,239 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1101/2022.01.20.477004
+  title: Core Transcription Programs Controlling Injury-Induced Neurodegeneration
+    of Retinal Ganglion Cells
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Feng Tian
+  - Yuyan Cheng
+  - Songlin Zhou
+  - Qianbin Wang
+  - Aboozar Monavarfeshani
+  - Kun Gao
+  - Weiqian Jiang
+  - Riki Kawaguchi
+  - Qing Wang
+  - Mingjun Tang
+  - Ryan Donahue
+  - Huyan Meng
+  - Anne Jacobi
+  - Jiani Yin
+  - Xinyi Cai
+  - Shane Hegarty
+  - Joanna Stanicka
+  - Phillip Dmitriev
+  - Daniel Taub
+  - Clifford J. Woolf
+  - Joshua R. Sanes
+  - Daniel H. Geschwind
+  - Zhigang He
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-01-22'
+  link: https://doi.org/g8j2q7
+  orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.bbi.2020.05.068
+  title: Toll-like receptor 2 (TLR2)-deficiency impairs male mouse recovery from a
+    depression-like state
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Eva M. Medina-Rodriguez
+  - Yuyan Cheng
+  - Suzanne M. Michalek
+  - "El\xE9onore Beurel"
+  - Richard S. Jope
+  publisher: Brain, Behavior, and Immunity
+  date: '2020-10-01'
+  link: https://doi.org/g8j2q9
+  orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2020.12.13.413104
+  title: Transcription factor network analysis identifies REST/NRSF as an intrinsic
+    regulator of CNS regeneration
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Yuyan Cheng
+  - Yuqin Yin
+  - Alice Zhang
+  - Alexander M. Bernstein
+  - Riki Kawaguchi
+  - Kun Gao
+  - Kyra Potter
+  - Hui-Ya Gilbert
+  - Yan Ao
+  - Jing Ou
+  - Catherine J. Fricano-Kugler
+  - Jeffrey L. Goldberg
+  - Clifford J. Woolf
+  - Michael V. Sofroniew
+  - Larry I. Benowitz
+  - Daniel H. Geschwind
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2020-12-14'
+  link: https://doi.org/gsz7tn
+  orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.neures.2018.10.012
+  title: Insulin growth factor 2 (IGF2) as an emergent target in psychiatric and neurological
+    disorders. Review
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - M. Pardo
+  - Y. Cheng
+  - Y.H. Sitbon
+  - J.A. Lowell
+  - S.F. Grieco
+  - R.J. Worthen
+  - S. Desse
+  - A. Barreda-Diaz
+  publisher: Neuroscience Research
+  date: '2019-12-01'
+  link: https://doi.org/g8j2rd
+  orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.bbi.2018.02.003
+  title: "TNF\u03B1 disrupts blood brain barrier integrity to maintain prolonged depressive-like\
+    \ behavior in mice"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Yuyan Cheng
+  - Sachi Desse
+  - Ana Martinez
+  - Ryan J. Worthen
+  - Richard S. Jope
+  - Eleonore Beurel
+  publisher: Brain, Behavior, and Immunity
+  date: '2018-03-01'
+  link: https://doi.org/gdnqcz
+  orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1172/jci.insight.91782
+  title: Intranasal siRNA administration reveals IGF2 deficiency contributes to impaired
+    cognition in Fragile X syndrome mice
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Marta Pardo
+  - Yuyan Cheng
+  - Dmitry Velmeshev
+  - Marco Magistri
+  - Hagit Eldar-Finkelman
+  - Ana Martinez
+  - Mohammad A. Faghihi
+  - Richard S. Jope
+  - Eleonore Beurel
+  publisher: JCI Insight
+  date: '2017-03-23'
+  link: https://doi.org/gf43zp
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.3430-13.2017
+  title: Novel Regulatory Mechanisms for the SoxC Transcriptional Network Required
+    for Visual Pathway Development
+  authors:
+  - Kun-Che Chang
+  - Jonathan Hertz
+  - Xiong Zhang
+  - Xiao-Lu Jin
+  - Peter Shaw
+  - Brooke A. Derosa
+  - Janet Y. Li
+  - Praseeda Venugopalan
+  - Daniel A. Valenzuela
+  - Roshni D. Patel
+  - Kristina R. Russano
+  - Shomoukh A. Alshamekh
+  - Catalina Sun
+  - Kevin Tenerelli
+  - Chenyi Li
+  - Dmitri Velmeshev
+  - Yuyan Cheng
+  - Timothy M. Boyce
+  - Alexandra Dreyfuss
+  - Mohammed S. Uddin
+  - Kenneth J. Muller
+  - Derek M. Dykxhoorn
+  - Jeffrey L. Goldberg
+  publisher: The Journal of Neuroscience
+  date: '2017-04-14'
+  link: https://doi.org/g8j2rj
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tibs.2016.10.009
+  title: Stressed and Inflamed, Can GSK3 Be Blamed?
+  authors:
+  - Richard S. Jope
+  - Yuyan Cheng
+  - Jeffrey A. Lowell
+  - Ryan J. Worthen
+  - Yoel H. Sitbon
+  - Eleonore Beurel
+  publisher: Trends in Biochemical Sciences
+  date: '2017-03-01'
+  link: https://doi.org/f9w4xk
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pnpbp.2016.08.008
+  title: Up-regulation of insulin-like growth factor 2 by ketamine requires glycogen
+    synthase kinase-3 inhibition
+  authors:
+  - Steven F. Grieco
+  - Yuyan Cheng
+  - Hagit Eldar-Finkelman
+  - Richard S. Jope
+  - "El\xE9onore Beurel"
+  publisher: Progress in Neuro-Psychopharmacology and Biological Psychiatry
+  date: '2017-01-01'
+  link: https://doi.org/g8j2rk
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbi.2015.12.012
+  title: Stress-induced neuroinflammation is mediated by GSK3-dependent TLR4 signaling
+    that promotes susceptibility to depression-like behavior
+  authors:
+  - Yuyan Cheng
+  - Marta Pardo
+  - Rubia de Souza Armini
+  - Ana Martinez
+  - Hadley Mouhsine
+  - Jean-Francois Zagury
+  - Richard S. Jope
+  - Eleonore Beurel
+  publisher: Brain, Behavior, and Immunity
+  date: '2016-03-01'
+  link: https://doi.org/f8fvfk
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12868-015-0169-z
+  title: A pre-conditioning stress accelerates increases in mouse plasma inflammatory
+    cytokines induced by stress
+  authors:
+  - Yuyan Cheng
+  - Richard S Jope
+  - Eleonore Beurel
+  publisher: BMC Neuroscience
+  date: '2015-05-07'
+  link: https://doi.org/gb5jmd
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pharmthera.2013.07.010
+  title: 'Glycogen synthase kinase-3 inhibitors: Rescuers of cognitive impairments'
+  authors:
+  - Margaret K. King
+  - Marta Pardo
+  - Yuyan Cheng
+  - Kimberlee Downey
+  - Richard S. Jope
+  - "El\xE9onore Beurel"
+  publisher: Pharmacology &amp; Therapeutics
+  date: '2014-01-01'
+  link: https://doi.org/f5n565
+  orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +249,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +265,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

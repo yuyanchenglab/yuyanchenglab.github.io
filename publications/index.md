@@ -1,8 +1,8 @@
 ---
-title: Published Works
+title: Publications
 nav:
   order: 30
-  tooltip: Published works
+  tooltip: Publications
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Core Transcription Programs Controlling Injury-Induced Neurodegeneration of Retinal Ganglion Cells" style="rich" %}
 
 {% include section.html %}
 

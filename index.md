@@ -12,7 +12,7 @@ See how we are using bioinformatics to understand the progression of Glaucoma an
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

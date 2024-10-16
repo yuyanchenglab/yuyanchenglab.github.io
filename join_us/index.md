@@ -27,22 +27,20 @@ We are actively seeking talented researchers (both dry and wet) at all levels to
 
 We invite graduate and undergraduate students with backgrounds in biology, computer science, engineering, and/or chemistry to join our team. We offer hands-on mentoring and comprehensive support to develop both experimental and computational skills, ensuring you to succeed in your chosen career path. 
 
-## Graduate students from NGG, CAMB, and other graduate programs are highly encouraged to discuss potential research projects in the lab.
+Graduate students from NGG, CAMB, and other graduate programs are highly encouraged to discuss potential research projects in the lab.
 
-Undergraduate students can apply through (CURF)[https://curf.upenn.edu/rd/research-opportunities-undergraduate-students-all-levels] or email Yuyan with your resume and describe why you are interested in research in our lab.  
+Undergraduate students can apply through [CURF](https://curf.upenn.edu/rd/research-opportunities-undergraduate-students-all-levels) or email Yuyan with your resume and describe why you are interested in research in our lab.  
 
 ## Research Specialists (Technicians) 
 
-We are recruiting Research Specialists both at the entry and more experienced levels. (Apply here at this portal!)[https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/Stellar-Chance-F3/Research-Specialist-B-C–Department-of-Ophthalmology-_JR00080318-1]
+We are recruiting Research Specialists both at the entry and more experienced levels. [Apply here at this portal!](https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/Stellar-Chance-F3/Research-Specialist-B-C–Department-of-Ophthalmology-_JR00080318-1)
 
 ## Postdoctoral Scholars
 
 We welcome talented and self-motivated postdoc candidates with expertise in the following areas: 
 
 * Mechanistic cell and molecular biology  
-
 * Computational and genome biology 
-
 * Human or animal models of retinal diseases 
 
 If you are interested in applying, please send your resume to yuyan.cheng@pennmedicine.upenn.edu, along with a cover letter describing your key publications or manuscripts, your goals for the postdoc training, and contact emails of 3 references.  
@@ -55,7 +53,9 @@ We invite undergraduate students, graduate students, medical school students, or
 
 {% capture col1 %}
 310 Stellar-Chance Laboratories
+
 422 Curie Blvd
+
 Philadelphia, PA 19104, USA
 {% endcapture %}
 
