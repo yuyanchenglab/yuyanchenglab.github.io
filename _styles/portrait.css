@@ -51,11 +51,11 @@
 
 .portrait-image {
   width: 100%;
-  margin-bottom: 20px;
   aspect-ratio: 1/1;
   border-radius: 999px;
   object-fit: cover;
   box-shadow: var(--shadow);
+  object-position: top;
 }
 
 .portrait[data-style=tiny] .portrait-image {
