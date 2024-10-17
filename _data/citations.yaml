@@ -1,5 +1,133 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cell.2024.08.019
+  title: Cross-disorder and disease-specific pathways in dementia revealed by single-cell genomics
+  authors:
+  - Rexach JE
+  - Cheng Y
+  - Chen L
+  - Polioudakis D
+  - Lin LC
+  - Mitri V
+  - Elkins A
+  - Han X
+  - Yamakawa M
+  - Yin A
+  - Calini D
+  - Kawaguchi R
+  - Ou J
+  - Huang J
+  - Williams C
+  - Robinson J
+  - Gaus SE
+  - Spina S
+  - Lee EB
+  - Grinberg LT
+  - Vinters H
+  - Trojanowski JQ
+  - Seeley WW
+  - Malhotra D
+  - Geschwind DH
+  publisher: Cell
+  date: '2024-09-09'
+  link: https://www.cell.com/cell/abstract/S0092-8674(24)00910-3
+- id: doi:10.1126/science.adh26
+  title: Molecular cascades and cell-type specific signatures in autism spectrum disorders revealed by single cell genomics
+  authors:
+  - Wamsley B
+  - Bicks L
+  - Cheng Y
+  - Kawaguchi R
+  - Quintero D
+  - Grundman J, Liu J
+  - Xiao S
+  - Hawken N
+  - Margolis M
+  - Mazariegos S
+  - and Geschwind DH
+  publisher: Science
+  date: '2024-05-24'
+  link: https://www.science.org/doi/10.1126/science.adh2602
+- id: doi:10.1126/science.adi5199
+  title: Single-cell genomics and regulatory networks for 388 human brains
+  authors:
+  - Emani PS
+  - Liu JJ
+  - Clarke D
+  - Jensen M
+  - Warrell J
+  - Gupta C
+  - Meng R
+  - Lee CY
+  - Xu S
+  - Dursun C
+  - Lou S
+  - (13 authors)
+  - Cheng Y
+  - et al.
+  publisher: Science
+  date: '2024-05-24'
+  link: https://www.science.org/doi/10.1126/science.adi5199
+- id: doi:10.1523/JNEUROSCI.2076-22.2023
+  title: Integrin-driven Axon Regeneration in the Spinal Cord Activates a Distinctive CNS Regeneration Program
+  authors:
+  - Cheah M (co-first)
+  - Cheng Y (co-first)
+  - Petrova V
+  - Cimpean A
+  - Jendelova P
+  - Swarup V
+  - Woolf CJ
+  - Geschwind DH
+  - Fawcett JW
+  publisher: Journal of Neuroscience (cover)
+  date: '2023-06-28'
+  link: https://pubmed.ncbi.nlm.nih.gov/37277179/
+- id: doi:10.1016/j.neuron.2023.06.013
+  title: The Intermittent Fasting Mimetic, 2-deoxyglucose, Reprograms Brain Derived Neurotrophic Factor (BDNF) transcription via an Adaptive ER Stress-ATF4 Pathway and Improves Outcomes in Alzheimer's and Stroke Models
+  authors:
+  - Kumar A
+  - Karuppagounder SS
+  - Chen Y
+  - Corona C
+  - Kawaguchi R
+  - Cheng Y
+  - Balkaya M
+  - Sagdullaev BT
+  - Wen Z
+  - Coppola G
+  - Stuart C
+  - Cho S
+  - Ming G
+  - Tuvikene J
+  - Timmusk T
+  - Geschwind DH
+  - Ratan RR
+  publisher: Neuron
+  date: '2023-07-11'
+  link: https://pubmed.ncbi.nlm.nih.gov/37453419/
+- id: doi:10.1038/s41467-022-31960-7
+  title: Transcription factor network analysis identifies REST/NRSF as an intrinsic regulator of CNS regeneration
+  authors:
+  - Cheng Y
+  - Yin Y
+  - Zhang A
+  - Bernstein AM
+  - Kawaguchi R
+  - Gao K
+  - Potter K
+  - Gilbert H
+  - Ao Y
+  - Ou J
+  - Fricano-Kugler CJ
+  - Goldberg JL
+  - Woolf CJ
+  - Sofroniew MV
+  - Benowitz LI
+  - Geschwind DH
+  publisher: Nature Communications
+  date: '2022-07-29'
+  link: https://doi.org/10.1038/s41467-022-31960-7
 - id: doi:10.1101/2022.01.20.477004
   title: Core Transcription Programs Controlling Injury-Induced Neurodegeneration
     of Retinal Ganglion Cells
@@ -92,6 +220,20 @@
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.neures.2018.10.012
+  title: Insulin growth factor 2 (IGF2) as an emergent target in psychiatric and neurological disorders
+  authors:
+  - Pardo M
+  - Cheng Y
+  - Sitbon YH
+  - Lowell JA
+  - Grieco SF
+  - Worthen RJ
+  - Desse S
+  - Barreda-Diaz A
+  publisher: Neuroscience Research
+  date: '2018-10-31'
+  link: https://doi.org/10.1016/j.neures.2018.10.012
 - id: doi:10.1016/j.bbi.2018.02.003
   title: "TNF\u03B1 disrupts blood brain barrier integrity to maintain prolonged depressive-like\
     \ behavior in mice"
@@ -175,6 +317,22 @@
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1172/jci.insight.91782
+  title: Intranasal siRNA administration can regulate learning and ameliorate deficits in Fragile X syndrome mice
+  authors:
+  - Pardo M
+  - Cheng Y
+  - Velmeshev D
+  - Magistri
+  - M
+  - Eldar-Finkelman H
+  - Martinez A
+  - Faghihi M
+  - Jope RS
+  - Beurel E
+  publisher: JCI Insight
+  date: '2017-03-23'
+  link: https://doi.org/10.1172/jci.insight.91782
 - id: doi:10.1016/j.pnpbp.2016.08.008
   title: Up-regulation of insulin-like growth factor 2 by ketamine requires glycogen
     synthase kinase-3 inhibition
@@ -236,37 +394,6 @@
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
