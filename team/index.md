@@ -10,6 +10,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|undergrad)" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
