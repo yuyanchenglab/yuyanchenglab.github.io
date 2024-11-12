@@ -31,6 +31,7 @@
   publisher: Cell
   date: '2024-09-09'
   link: https://www.cell.com/cell/abstract/S0092-8674(24)00910-3
+  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d149e6:rev:1727539174289-9392:pii:S0092867423X0021X/cover.tif.jpg
 - id: doi:10.1126/science.adh26
   title: Molecular cascades and cell-type specific signatures in autism spectrum disorders revealed by single cell genomics
   authors:
@@ -48,6 +49,7 @@
   publisher: Science
   date: '2024-05-24'
   link: https://www.science.org/doi/10.1126/science.adh2602
+  image: https://www.science.org/cms/asset/7faa1c53-8e2c-424c-9358-ab1f4ee2c46f/science.2024.384.issue-6698.largecover.jpg
 - id: doi:10.1126/science.adi5199
   title: Single-cell genomics and regulatory networks for 388 human brains
   authors:
@@ -68,6 +70,7 @@
   publisher: Science
   date: '2024-05-24'
   link: https://www.science.org/doi/10.1126/science.adi5199
+  image: https://www.science.org/cms/asset/7faa1c53-8e2c-424c-9358-ab1f4ee2c46f/science.2024.384.issue-6698.largecover.jpg
 - id: doi:10.1523/JNEUROSCI.2076-22.2023
   title: Integrin-driven Axon Regeneration in the Spinal Cord Activates a Distinctive CNS Regeneration Program
   authors:
@@ -83,6 +86,7 @@
   publisher: Journal of Neuroscience (cover)
   date: '2023-06-28'
   link: https://pubmed.ncbi.nlm.nih.gov/37277179/
+  image: https://www.jneurosci.org/sites/default/files/styles/medium/public/highwire/jneuro/43/26.cover-source.jpg
 - id: doi:10.1016/j.neuron.2023.06.013
   title: The Intermittent Fasting Mimetic, 2-deoxyglucose, Reprograms Brain Derived Neurotrophic Factor (BDNF) transcription via an Adaptive ER Stress-ATF4 Pathway and Improves Outcomes in Alzheimer's and Stroke Models
   authors:
@@ -106,6 +110,7 @@
   publisher: Neuron
   date: '2023-07-11'
   link: https://pubmed.ncbi.nlm.nih.gov/37453419/
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322X00196-cov200h.gif
 - id: doi:10.1038/s41467-022-31960-7
   title: Transcription factor network analysis identifies REST/NRSF as an intrinsic regulator of CNS regeneration
   authors:
@@ -128,6 +133,7 @@
   publisher: Nature Communications
   date: '2022-07-29'
   link: https://doi.org/10.1038/s41467-022-31960-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-31960-7/MediaObjects/41467_2022_31960_Fig1_HTML.png
 - id: doi:10.1101/2022.01.20.477004
   title: Core Transcription Programs Controlling Injury-Induced Neurodegeneration
     of Retinal Ganglion Cells
@@ -155,9 +161,10 @@
   - Joshua R. Sanes
   - Daniel H. Geschwind
   - Zhigang He
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Neuron
   date: '2022-01-22'
-  link: https://doi.org/g8j2q7
+  link: https://doi.org/10.1016/j.neuron.2022.06.003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627321X00177-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -173,32 +180,7 @@
   publisher: Brain, Behavior, and Immunity
   date: '2020-10-01'
   link: https://doi.org/g8j2q9
-  orcid: 0000-0003-4647-4917
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.12.13.413104
-  title: Transcription factor network analysis identifies REST/NRSF as an intrinsic
-    regulator of CNS regeneration
-  authors:
-  - Yuyan Cheng
-  - Yuqin Yin
-  - Alice Zhang
-  - Alexander M. Bernstein
-  - Riki Kawaguchi
-  - Kun Gao
-  - Kyra Potter
-  - Hui-Ya Gilbert
-  - Yan Ao
-  - Jing Ou
-  - Catherine J. Fricano-Kugler
-  - Jeffrey L. Goldberg
-  - Clifford J. Woolf
-  - Michael V. Sofroniew
-  - Larry I. Benowitz
-  - Daniel H. Geschwind
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-12-14'
-  link: https://doi.org/gsz7tn
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0889159120X00067-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -217,23 +199,10 @@
   publisher: Neuroscience Research
   date: '2019-12-01'
   link: https://doi.org/g8j2rd
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168010219X00115-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neures.2018.10.012
-  title: Insulin growth factor 2 (IGF2) as an emergent target in psychiatric and neurological disorders
-  authors:
-  - Pardo M
-  - Cheng Y
-  - Sitbon YH
-  - Lowell JA
-  - Grieco SF
-  - Worthen RJ
-  - Desse S
-  - Barreda-Diaz A
-  publisher: Neuroscience Research
-  date: '2018-10-31'
-  link: https://doi.org/10.1016/j.neures.2018.10.012
 - id: doi:10.1016/j.bbi.2018.02.003
   title: "TNF\u03B1 disrupts blood brain barrier integrity to maintain prolonged depressive-like\
     \ behavior in mice"
@@ -247,6 +216,7 @@
   publisher: Brain, Behavior, and Immunity
   date: '2018-03-01'
   link: https://doi.org/gdnqcz
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0889159118X00026-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -266,6 +236,7 @@
   publisher: JCI Insight
   date: '2017-03-23'
   link: https://doi.org/gf43zp
+  image: https://df6sxcketz7bb.cloudfront.net/volumes/default_cover.png
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -299,6 +270,7 @@
   publisher: The Journal of Neuroscience
   date: '2017-04-14'
   link: https://doi.org/g8j2rj
+  image: https://www.jneurosci.org/sites/default/files/styles/medium/public/highwire/jneuro/37/19.cover-source.jpg
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -314,25 +286,10 @@
   publisher: Trends in Biochemical Sciences
   date: '2017-03-01'
   link: https://doi.org/f9w4xk
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0968000416X00047-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1172/jci.insight.91782
-  title: Intranasal siRNA administration can regulate learning and ameliorate deficits in Fragile X syndrome mice
-  authors:
-  - Pardo M
-  - Cheng Y
-  - Velmeshev D
-  - Magistri
-  - M
-  - Eldar-Finkelman H
-  - Martinez A
-  - Faghihi M
-  - Jope RS
-  - Beurel E
-  publisher: JCI Insight
-  date: '2017-03-23'
-  link: https://doi.org/10.1172/jci.insight.91782
 - id: doi:10.1016/j.pnpbp.2016.08.008
   title: Up-regulation of insulin-like growth factor 2 by ketamine requires glycogen
     synthase kinase-3 inhibition
@@ -345,6 +302,7 @@
   publisher: Progress in Neuro-Psychopharmacology and Biological Psychiatry
   date: '2017-01-01'
   link: https://doi.org/g8j2rk
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0278584616X00073-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -363,6 +321,7 @@
   publisher: Brain, Behavior, and Immunity
   date: '2016-03-01'
   link: https://doi.org/f8fvfk
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0889159116X00025-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -376,6 +335,7 @@
   publisher: BMC Neuroscience
   date: '2015-05-07'
   link: https://doi.org/gb5jmd
+  image: https://bmcneurosci.biomedcentral.com/static/images/bmc/logos/logo-bmc-strapline-series-3725f38f29.svg
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -391,6 +351,7 @@
   publisher: Pharmacology &amp; Therapeutics
   date: '2014-01-01'
   link: https://doi.org/f5n565
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0163725813X00130-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
