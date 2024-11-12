@@ -1,7 +1,7 @@
 ---
 name: Rachel Lyn-Sue
 image: images/rachel-lyn-sue-professional-headshot.jpg
-role: wet-tech
+role: undergrad
 links:
   email: rachells@sas.upenn.edu
 ---
