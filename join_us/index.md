@@ -30,27 +30,3 @@ If you are interested in applying, please send your resume to yuyan.cheng@pennme
 ## Visiting Scholars 
 
 We invite undergraduate students, graduate students, medical school students, or postdoc candidates to participate in research at our lab for summer programs or exchange programs, in accordance with University of Pennsylvania policies and U.S. government regulations. We also accommodate remote work for trainees with computational focus. 
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-310 Stellar-Chance Laboratories
-
-422 Curie Blvd
-
-Philadelphia, PA 19104, USA
-{% endcapture %}
-
-{% capture col2 %}
-<!-- Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor -->
-{% endcapture %}
-
-{% capture col3 %}
-<!-- Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor -->
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

@@ -15,6 +15,15 @@
     </div>
   -->
 
+  {% capture col1 %}
+  310 Stellar-Chance Laboratories
+
+  422 Curie Blvd
+
+  Philadelphia, PA 19104, USA
+  {% endcapture %}
+
+  {% capture col2 %}
   <div>
     {% for link in site.links %}
       {% assign key = link[0] %}
@@ -31,6 +40,9 @@
       Lab Website Template
     </a>
   </div>
+  {% endcapture %}
+
+  {% include cols.html col1=col1 col2=col2 %}
 
   <input
     type="checkbox"
