@@ -1,1 +1,1 @@
-Sitemap: https://yuyanchenglab.github.io/upenn-cheng-lab/sitemap.xml
+Sitemap: https://yuyanchenglab.github.io/sitemap.xml
