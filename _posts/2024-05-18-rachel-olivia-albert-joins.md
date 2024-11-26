@@ -6,15 +6,15 @@ image:
 
 {%
     include figure.html 
-    image="image/rachel-lyn-sue-professional-headshot.jpg"
+    image="images/rachel-lyn-sue-professional-headshot.jpg"
 %}
 
 {%
     include figure.html 
-    image="image/albert-chen-professional-headshot.png"
+    image="images/albert-chen-professional-headshot.png"
 %}
 
 {%
     include figure.html 
-    image="image/olivia-hu-undergraduate-e1719678075507.jpg"
+    image="images/olivia-hu-undergraduate-e1719678075507.jpg"
 %}
