@@ -2,7 +2,6 @@
 name: Yuyan Cheng
 image: images/yuyan-cheng-professional-headshot.jpg
 role: pi
-affiliation: University of Pennsylvania
 links:
   home-page: https://yuyanchenglab.github.io/upenn-cheng-lab
   orcid: 0000-0003-4647-4917
