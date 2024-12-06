@@ -5,12 +5,19 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+<h1 style="text-align: left; font-weight:bold;"> {{ page.title }} </h1>
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|undergrad)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: bioinformatics" %}
+{% include list.html data="members" component="portrait" filters="role: wet-tech" %}
+<!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$|undergrad)" %} -->
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
+
+<h2 style="text-align: left; font-weight:bold;"> Lab Alumni </h2>
+
+{% include list.html data="members" component="portrait" filters="role: former" %}

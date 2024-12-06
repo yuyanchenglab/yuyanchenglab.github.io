@@ -25,6 +25,9 @@ bioinformatics:
 
 wet-tech:
   description: Lab Technician
+
+former:
+  description:
 # general
 
 link:
