@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and applications
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Join Us
+<h1 style="text-align: left; font-weight:bold;"> {{ page.title }} </h1>
 
 We are actively seeking talented researchers (both dry and wet) at all levels to join our team, and conduct research at the intersection of functional genomics, bioinformatics, and neuroscience. We value an inclusive environment and welcome trainees from diverse backgrounds. Please follow the instructions below to apply.
 
@@ -13,7 +13,7 @@ We are actively seeking talented researchers (both dry and wet) at all levels to
 
 We invite graduate and undergraduate students with backgrounds in biology, computer science, engineering, and/or chemistry to join our team. We offer hands-on mentoring and comprehensive support to develop both experimental and computational skills, ensuring you to succeed in your chosen career path. 
 
-Graduate students from NGG, CAMB, and other graduate programs are highly encouraged to discuss potential research projects in the lab.
+Graduate students from NGG, CAMB, GCB & Engineering are highly encouraged to discuss potential research projects in the lab.
 
 Undergraduate students can apply through [CURF](https://curf.upenn.edu/rd/research-opportunities-undergraduate-students-all-levels) or email Yuyan with your resume and describe why you are interested in research in our lab.
 

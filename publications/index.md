@@ -5,10 +5,6 @@ nav:
   tooltip: Publications
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
-{% include search-box.html %}
-
-{% include search-info.html %}
+<h1 style="text-align: left; font-weight:bold;"> {{ page.title }} </h1>
 
 {% include list.html data="citations" component="citation" style="rich" %}
