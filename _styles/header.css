@@ -20,7 +20,7 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  gap: 10px;
+  gap: 0px;
   flex-basis: 0;
   flex-grow: 1;
   max-width: 100%;
@@ -39,7 +39,7 @@ header a {
   justify-content: flex-start;
   align-items: baseline;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 0px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
@@ -50,8 +50,7 @@ header a {
 }
 
 .subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  font-size: var(--large);
 }
 
 .nav-toggle {
@@ -86,9 +85,11 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
   font-family: var(--heading);
   text-transform: uppercase;
+  font-size: var(--large);
+  text-decoration: underline;
 }
 
 nav > a {
