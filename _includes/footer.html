@@ -16,14 +16,12 @@
   -->
 
   {% capture col1 %}
-  310 Stellar-Chance Laboratories
-
-  422 Curie Blvd
-
-  Philadelphia, PA 19104, USA
+  <div>310 Stellar-Chance Laboratories</div>
+  <div>422 Curie Blvd</div>
+  <div>Philadelphia, PA 19104, USA</div>
   {% endcapture %}
 
-  {% capture col2 %}
+  {% capture col2 %} 
   <div>
     {% for link in site.links %}
       {% assign key = link[0] %}
@@ -32,23 +30,31 @@
     {% endfor %}
   </div>
 
+  <div> 
+    <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+    >
+  </div>
+  {% endcapture %}
+
+  {% capture col3 %}
   <div>
     &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
-    &nbsp; | &nbsp; Built with
+  </div>
+  
+  <div>
+    Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
     </a>
   </div>
   {% endcapture %}
 
-  {% include cols.html col1=col1 col2=col2 %}
+  {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
-  <input
-    type="checkbox"
-    class="dark-toggle"
-    data-tooltip="Dark mode"
-    aria-label="toggle dark mode"
-    oninput="onDarkToggleChange(event)"
-  >
 </footer>
