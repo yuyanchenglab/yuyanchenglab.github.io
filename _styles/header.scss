@@ -14,6 +14,8 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -39,7 +41,7 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: $logo-big;
 }
 
 .logo > * {
