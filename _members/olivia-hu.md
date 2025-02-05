@@ -4,4 +4,4 @@ image: images/olivia-hu-undergraduate-e1719678075507.jpg
 role: former
 ---
 
-Albert is an undergraduate studying computer science and economics. His role in the lab is as a data analyst, using single-cell and spatial data to search for genetic markers that correlate with glaucoma in patients. Outside of academics, I am an avid squash player and a member of The Mask and Wig Club, a musical comedy company at Penn.
+Olivia joined the Cheng lab for the summer of 2024 where she learned how to perform single cell sequencing analyses and investigated integrations techniques that our lab still uses!
