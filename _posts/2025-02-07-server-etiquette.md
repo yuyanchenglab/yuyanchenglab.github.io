@@ -1,5 +1,5 @@
 ---
-title: Server Eitquette Meeting
+title: Server Etiquette Meeting
 author: jeffrey-maurer
 image: images/news/server-etiquette-feb-2025.png
 ---
