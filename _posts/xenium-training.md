@@ -13,11 +13,9 @@ The trillions of parts that assemble to make up the human nervous system can be 
 
 That is why our lab has invested in a Xenium Analyzer from 10X Genomics. This device uses a precise application of chemical and photic prods to measure individual cellular expression in situ[^Xenium]. It is at this level of detail that we shall listen to hear the difference in rhetoric between RGC that survive and repair themselves and ones that fail. And where *we* can't find the common motifs, we expect artificial ears to keep focus until they can explain it to us. Characterizing expression of cells has come a long way. Though the specific path the reader is imagining might trace through single cell and bulk RNA-seq, its journey goes even further back than the Human Genome Project in the **19**90's.
 
-```
-"...it seems probable that most of the grand underlying principles have been firmly established... It is here that the science of measurement shows its importance — where quantitative work is more to be desired than qualitative work. An eminent physicist remarked that the future truths of physical science are to be looked for in the sixth place of decimals."
-
-- Dr. Albert Michelson, The University of Chicago's 1896 Annual Register, Introduction to Chapter XIX. The Department of Physics. [Link](https://books.google.com/books?id=HysXAAAAYAAJ&pg=PA159#v=onepage&q&f=false)
-```
+> "...it seems probable that most of the grand underlying principles have been firmly established... It is here that the **science of measurement** shows its importance — where quantitative work is more to be desired than qualitative work. An eminent physicist remarked that the future truths of physical science are to be looked for in the sixth place of decimals."
+> 
+> Dr. Albert Michelson, 1896[^kelvin]
 
 This is a quote from University of Chicago's head of physics in 1896. It is often misattributed to Lord Kelvin and jeered for its lack of divination. In the decade after this statement, more than a couple paradigm shifting discoveries occured: the anatomy of the atom (Thomson, 1897[^thomson] & Rutherford, 1911[^rutherford]), the transistor (Forest, 1906[^forest]) and the photoelectric effect (Einstein, 1905[^photoelectric]). But the precision of scientific work is what lead to these discoveries becoming useful. The precise manipulation of fissile nuclei to create a bomb, the miniaturization of controllable semiconductor gates to perform high-throughput data processing, and measuring the excitation of millions of photosensors for digital photography.
 
