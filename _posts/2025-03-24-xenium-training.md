@@ -5,7 +5,8 @@ image: images/news/2025-03-18-xenium-wide-1.jpg
 ---
 
 # 130 Years
-<p style="font-size:8pt;text-align:center;">Editted by Cass Poon, Dr. Gaby Rice and Dr. Cheng.</p>
+
+<p style="font-size:8pt;text-align:center;">Editted by Cass Poon.</p>
 
 The newest AI advances are coming at a record pace. Large language models this decade have modelled the patterns of human language to such an extent that it can follow basic commands or keep a decent conversation[^converseAI]. The first hurdle to get to this point was computing power--running and coordinating billions of calculations requires a machine with trillions of parts assembled correctly. The next set of advancements have been from developing specialized neural network architecture that can efficiently learn the motifs that human brains produce in communication[^attention]. It seems fitting that the machine learning model based on the neuron might mirror its inspiration. This cyclical study of digital and biological neurons is where the Cheng lab intends to explore.
 
