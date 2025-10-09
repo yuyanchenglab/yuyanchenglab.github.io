@@ -1,7 +1,7 @@
 ---
 name: Albert Chen
 image: images/albert-chen-professional-headshot.png
-role: undergrad
+role: former
 links:
   email: chena23@seas.upenn.edu
 ---
