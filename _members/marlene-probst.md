@@ -1,6 +1,6 @@
 ---
 name: Marlene Probst
-image: images/headshots/marlene-headshot.jpeg
+image: images/headshots/marlene-headshot.png
 role: phd
 links:
   email: marlene.probst@pennmedicine.upenn.edu
