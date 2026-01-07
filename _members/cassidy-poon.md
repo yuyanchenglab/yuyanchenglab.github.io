@@ -1,7 +1,7 @@
 ---
 name: Cassidy Poon
 image: images/cassidy-poon-updated-headshot.jpg
-role: wet-tech
+role: former
 links:
   email: cassidy.poon@pennmedicine.upenn.edu
 ---
