@@ -1,139 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.cell.2024.08.019
-  title: Cross-disorder and disease-specific pathways in dementia revealed by single-cell genomics
-  authors:
-  - Rexach JE
-  - Cheng Y
-  - Chen L
-  - Polioudakis D
-  - Lin LC
-  - Mitri V
-  - Elkins A
-  - Han X
-  - Yamakawa M
-  - Yin A
-  - Calini D
-  - Kawaguchi R
-  - Ou J
-  - Huang J
-  - Williams C
-  - Robinson J
-  - Gaus SE
-  - Spina S
-  - Lee EB
-  - Grinberg LT
-  - Vinters H
-  - Trojanowski JQ
-  - Seeley WW
-  - Malhotra D
-  - Geschwind DH
-  publisher: Cell
-  date: '2024-09-09'
-  link: https://www.cell.com/cell/abstract/S0092-8674(24)00910-3
-  image: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d149e6:rev:1727539174289-9392:pii:S0092867423X0021X/cover.tif.jpg
-- id: doi:10.1126/science.adh26
-  title: Molecular cascades and cell-type specific signatures in autism spectrum disorders revealed by single cell genomics
-  authors:
-  - Wamsley B
-  - Bicks L
-  - Cheng Y
-  - Kawaguchi R
-  - Quintero D
-  - Grundman J, Liu J
-  - Xiao S
-  - Hawken N
-  - Margolis M
-  - Mazariegos S
-  - and Geschwind DH
-  publisher: Science
-  date: '2024-05-24'
-  link: https://www.science.org/doi/10.1126/science.adh2602
-  image: https://www.science.org/cms/asset/7faa1c53-8e2c-424c-9358-ab1f4ee2c46f/science.2024.384.issue-6698.largecover.jpg
-- id: doi:10.1126/science.adi5199
-  title: Single-cell genomics and regulatory networks for 388 human brains
-  authors:
-  - Emani PS
-  - Liu JJ
-  - Clarke D
-  - Jensen M
-  - Warrell J
-  - Gupta C
-  - Meng R
-  - Lee CY
-  - Xu S
-  - Dursun C
-  - Lou S
-  - (13 authors)
-  - Cheng Y
-  - et al.
-  publisher: Science
-  date: '2024-05-24'
-  link: https://www.science.org/doi/10.1126/science.adi5199
-  image: https://www.science.org/cms/asset/7faa1c53-8e2c-424c-9358-ab1f4ee2c46f/science.2024.384.issue-6698.largecover.jpg
-- id: doi:10.1523/JNEUROSCI.2076-22.2023
-  title: Integrin-driven Axon Regeneration in the Spinal Cord Activates a Distinctive CNS Regeneration Program
-  authors:
-  - Cheah M (co-first)
-  - Cheng Y (co-first)
-  - Petrova V
-  - Cimpean A
-  - Jendelova P
-  - Swarup V
-  - Woolf CJ
-  - Geschwind DH
-  - Fawcett JW
-  publisher: Journal of Neuroscience (cover)
-  date: '2023-06-28'
-  link: https://pubmed.ncbi.nlm.nih.gov/37277179/
-  image: https://www.jneurosci.org/sites/default/files/styles/medium/public/highwire/jneuro/43/26.cover-source.jpg
-- id: doi:10.1016/j.neuron.2023.06.013
-  title: The Intermittent Fasting Mimetic, 2-deoxyglucose, Reprograms Brain Derived Neurotrophic Factor (BDNF) transcription via an Adaptive ER Stress-ATF4 Pathway and Improves Outcomes in Alzheimer's and Stroke Models
-  authors:
-  - Kumar A
-  - Karuppagounder SS
-  - Chen Y
-  - Corona C
-  - Kawaguchi R
-  - Cheng Y
-  - Balkaya M
-  - Sagdullaev BT
-  - Wen Z
-  - Coppola G
-  - Stuart C
-  - Cho S
-  - Ming G
-  - Tuvikene J
-  - Timmusk T
-  - Geschwind DH
-  - Ratan RR
-  publisher: Neuron
-  date: '2023-07-11'
-  link: https://pubmed.ncbi.nlm.nih.gov/37453419/
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322X00196-cov200h.gif
-- id: doi:10.1038/s41467-022-31960-7
-  title: Transcription factor network analysis identifies REST/NRSF as an intrinsic regulator of CNS regeneration
-  authors:
-  - Cheng Y
-  - Yin Y
-  - Zhang A
-  - Bernstein AM
-  - Kawaguchi R
-  - Gao K
-  - Potter K
-  - Gilbert H
-  - Ao Y
-  - Ou J
-  - Fricano-Kugler CJ
-  - Goldberg JL
-  - Woolf CJ
-  - Sofroniew MV
-  - Benowitz LI
-  - Geschwind DH
-  publisher: Nature Communications
-  date: '2022-07-29'
-  link: https://doi.org/10.1038/s41467-022-31960-7
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-31960-7/MediaObjects/41467_2022_31960_Fig1_HTML.png
 - id: doi:10.1101/2022.01.20.477004
   title: Core Transcription Programs Controlling Injury-Induced Neurodegeneration
     of Retinal Ganglion Cells
@@ -161,10 +27,9 @@
   - Joshua R. Sanes
   - Daniel H. Geschwind
   - Zhigang He
-  publisher: Neuron
+  publisher: Cold Spring Harbor Laboratory
   date: '2022-01-22'
-  link: https://doi.org/10.1016/j.neuron.2022.06.003
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627321X00177-cov200h.gif
+  link: https://doi.org/g8j2q7
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -180,7 +45,32 @@
   publisher: Brain, Behavior, and Immunity
   date: '2020-10-01'
   link: https://doi.org/g8j2q9
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0889159120X00067-cov200h.gif
+  orcid: 0000-0003-4647-4917
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.13.413104
+  title: Transcription factor network analysis identifies REST/NRSF as an intrinsic
+    regulator of CNS regeneration
+  authors:
+  - Yuyan Cheng
+  - Yuqin Yin
+  - Alice Zhang
+  - Alexander M. Bernstein
+  - Riki Kawaguchi
+  - Kun Gao
+  - Kyra Potter
+  - Hui-Ya Gilbert
+  - Yan Ao
+  - Jing Ou
+  - Catherine J. Fricano-Kugler
+  - Jeffrey L. Goldberg
+  - Clifford J. Woolf
+  - Michael V. Sofroniew
+  - Larry I. Benowitz
+  - Daniel H. Geschwind
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-12-14'
+  link: https://doi.org/gsz7tn
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -199,7 +89,6 @@
   publisher: Neuroscience Research
   date: '2019-12-01'
   link: https://doi.org/g8j2rd
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168010219X00115-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -216,7 +105,6 @@
   publisher: Brain, Behavior, and Immunity
   date: '2018-03-01'
   link: https://doi.org/gdnqcz
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0889159118X00026-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -236,7 +124,6 @@
   publisher: JCI Insight
   date: '2017-03-23'
   link: https://doi.org/gf43zp
-  image: https://df6sxcketz7bb.cloudfront.net/volumes/default_cover.png
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -270,7 +157,6 @@
   publisher: The Journal of Neuroscience
   date: '2017-04-14'
   link: https://doi.org/g8j2rj
-  image: https://www.jneurosci.org/sites/default/files/styles/medium/public/highwire/jneuro/37/19.cover-source.jpg
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -286,7 +172,6 @@
   publisher: Trends in Biochemical Sciences
   date: '2017-03-01'
   link: https://doi.org/f9w4xk
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0968000416X00047-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -302,7 +187,6 @@
   publisher: Progress in Neuro-Psychopharmacology and Biological Psychiatry
   date: '2017-01-01'
   link: https://doi.org/g8j2rk
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0278584616X00073-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -321,7 +205,6 @@
   publisher: Brain, Behavior, and Immunity
   date: '2016-03-01'
   link: https://doi.org/f8fvfk
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0889159116X00025-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -335,7 +218,6 @@
   publisher: BMC Neuroscience
   date: '2015-05-07'
   link: https://doi.org/gb5jmd
-  image: https://bmcneurosci.biomedcentral.com/static/images/bmc/logos/logo-bmc-strapline-series-3725f38f29.svg
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
@@ -351,8 +233,64 @@
   publisher: Pharmacology &amp; Therapeutics
   date: '2014-01-01'
   link: https://doi.org/f5n565
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0163725813X00130-cov200h.gif
   orcid: 0000-0003-4647-4917
   plugin: orcid.py
   file: orcid.yaml
-
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
