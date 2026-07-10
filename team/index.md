@@ -21,4 +21,9 @@ nav:
 
 <h2 style="text-align: left; font-weight:bold;"> Former Members </h2>
 
-{% include list.html data="members" component="portrait" filters="role: former" %}
+<ul>
+{% assign former_members = site.members | where_exp: "m", "m.role == 'former'" %}
+{% for m in former_members %}
+  <li>{{ m.name }}{% if m.description %} — {{ m.description }}{% endif %}</li>
+{% endfor %}
+</ul>
