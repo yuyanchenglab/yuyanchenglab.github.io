@@ -1,7 +1,6 @@
 ---
 title: Rachel, Albert, and Olivia joined the lab as summer students!
 author: cassidy-poon
-image: 
 ---
 
 {%

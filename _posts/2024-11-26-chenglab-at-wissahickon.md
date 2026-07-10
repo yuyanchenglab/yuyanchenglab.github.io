@@ -1,8 +1,12 @@
 ---
 title: The lab visits Wissahickon!
 author: jeffrey-maurer
-image: images/wissahickon-2024-selfie.jpg
 ---
+
+{%
+    include figure.html 
+    image="images/wissahickon-2024-selfie.jpg"
+%}
 
 We came to lab early and carpooled to Wissahickon to hike up the trail!
 

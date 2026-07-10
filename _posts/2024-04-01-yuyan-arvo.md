@@ -1,5 +1,9 @@
 ---
 title: Yuyan Presented at Arvo
 author: jeffrey-maurer
-image: images/yuyan-cheng-professional-headshot.jpg
 ---
+
+{%
+    include figure.html
+    image="images/yuyan-cheng-professional-headshot.jpg"
+%}

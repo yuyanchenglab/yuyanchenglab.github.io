@@ -1,5 +1,9 @@
 ---
 title: Kelly joins the lab!
-image: images/kyungbin-oh-professional-headshot.jpg
 author: cassidy-poon
 ---
+
+{%
+    include figure.html
+    image="images/kyungbin-oh-professional-headshot.jpg"
+%}
