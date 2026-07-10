@@ -2,6 +2,7 @@
 name: Cassidy Poon
 image: images/cassidy-poon-updated-headshot.jpg
 role: former
+description: Lab Technician
 links:
   email: cassidy.poon@pennmedicine.upenn.edu
 ---

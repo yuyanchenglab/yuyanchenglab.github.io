@@ -2,6 +2,7 @@
 name: Rachel Lyn-Sue
 image: images/rachel-lyn-sue-professional-headshot.jpg
 role: undergrad
+description: Undergraduate Researcher
 links:
   email: rachells@sas.upenn.edu
 ---

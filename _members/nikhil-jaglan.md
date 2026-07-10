@@ -1,7 +1,8 @@
 ---
 name: Nikhil Jaglan
 image: images/headshots/nikhil-jaglan.jpg
-role: undergrad
+role: former
+description: Penn Undergraduate Researcher
 links:
   email: njaglan@sas.upenn.edu
 ---

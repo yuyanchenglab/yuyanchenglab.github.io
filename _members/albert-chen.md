@@ -2,6 +2,7 @@
 name: Albert Chen
 image: images/albert-chen-professional-headshot.png
 role: former
+description: Penn Undergraduate Researcher
 links:
   email: chena23@seas.upenn.edu
 ---

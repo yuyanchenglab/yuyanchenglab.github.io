@@ -2,6 +2,7 @@
 name: Rushil Patel
 image: images/headshots/rushil-patel.jpg
 role: undergrad
+description: Undergraduate Researcher
 links:
   email: prushil@seas.upenn.edu
 ---
