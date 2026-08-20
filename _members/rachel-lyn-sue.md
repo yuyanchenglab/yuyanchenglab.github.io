@@ -7,5 +7,4 @@ links:
   email: rachells@sas.upenn.edu
 ---
 
-Rachel is an undergraduate student at Penn working on developing lipid nanoparticles to deliver CRISPR to the eye. Her scientific interests include neuroscience and genetics. In her free time, she loves running, crocheting stuffed animals, and reading!
-
+Rachel is an undergraduate student at Penn studying neuroscience. In the lab, she is working on developing lipid nanoparticles to deliver CRISPR to the eye. Her scientific interests include neuroscience and genetics. In her free time, she loves running, crocheting stuffed animals, and reading!

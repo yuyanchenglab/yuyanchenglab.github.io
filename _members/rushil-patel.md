@@ -4,7 +4,7 @@ image: images/headshots/rushil-patel.jpg
 role: undergrad
 description: Undergraduate Researcher
 links:
-  email: prushil@seas.upenn.edu
+  email: prushil@engineering.upenn.edu
 ---
 
-Rushil is an undergraduate studying computer science. His work in the lab is analytical, using single-cell data to improve cell clustering methods and search for genetic markers of neurodegenerative through optic nerve cells. Originally from India, he moved to Wilmington, Delaware in August 2021. He enjoys watching football (Go Birds!) and hiking. He is a member of the Engineering Student Activities Council and Penn Aerial Robotics.
+Rushil is a rising junior studying Computer Science, with an accelerated master's in Data Science. His work in the lab is analytical: he designs compact gene panels that carry cell type information from single-cell RNA sequencing onto spatial transcriptomics platforms. He is the author of ortho-DART, an interpretable panel selection method, and worked with Bryant on X-SPEAR, the Python package built around it. Originally from India, he moved to Wilmington, Delaware in August 2021. He enjoys watching football (Go Birds!) and hiking. He is Vice President of the Engineering Student Activities Council, plays ultimate frisbee, and is a teaching assistant for CIS 1210.
