@@ -16,7 +16,7 @@
     {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" }}"
+    aria-label="{{ member.name | default: "member link" | escape }}"
   >
     {% if type %}
       {% include icon.html icon=type.icon %}
