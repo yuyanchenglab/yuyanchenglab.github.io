@@ -11,6 +11,12 @@ postdoc:
 phd:
   description: PhD Student
 
+masters:
+  description: Master's Student
+
+postbac:
+  description: Post-Baccalaureate Researcher
+
 undergrad:
   description: Undergraduate Student
 
