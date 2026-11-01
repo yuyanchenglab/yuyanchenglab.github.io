@@ -1,6 +1,7 @@
 ---
 title: Welcoming new lab members and celebrating Marlene's birthday!
 author: yuyan-cheng
+date: 2026-09-01 12:00:00
 ---
 
 We welcomed our new lab members with a celebration at the University Club, and celebrated Marlene's birthday with pizza and cake!
