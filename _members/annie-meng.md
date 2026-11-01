@@ -1,8 +1,8 @@
 ---
 name: Annie Meng
 image: images/headshots/annie-meng.jpg
-role: undergrad
-description: Undergraduate Researcher
+role: former
+description: Penn Undergraduate Researcher
 links:
   email: ayme5@sas.upenn.edu
 ---
